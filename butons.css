@@ -2,15 +2,6 @@
     font-weight: bold;
 	padding: 10px;
 	float: left;
-	border-top-width: 1px;
-	border-right-width: 1px;
-	border-bottom-width: 1px;
-	border-left-width: 1px;
-	border-bottom-style: solid;
-	border-top-color: #d61616;
-	border-right-color: #fd1818;
-	border-bottom-color: #8a1616;
-	border-left-color: #e61313;
 	color: #f01010;
 	margin-left: 20px;
 }
